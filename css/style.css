@@ -1,0 +1,44 @@
+.top-div{
+    background-color: #FFC996;
+   position: relative; 
+    padding-top: 100px;
+} 
+
+.middle-container{
+    background-color: #FFC996;
+   }
+
+.bottom-container{
+    background-color: #FFC996;
+    }
+
+body{
+    margin: 0px;
+    background-color: #FFC996;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+    width:10%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+h2,h3{
+    font-family: 'Sacramento', cursive;
+}
+.bottom-cloud{
+    position: absolute;
+    right: 300px;
+    bottom: 400px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.skill-row{
+    background-color:#FFC996
+}
+p{
+    font-family: 'Lilita One', cursive;
+}
